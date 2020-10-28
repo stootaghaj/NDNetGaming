@@ -44,7 +44,7 @@ The model gives you frame level quality and save it in a csv file. The NDNetGami
 # Prepration 
 Install python and pip, if they are not already installed. Follow the platform specific installation instructions. The following step should be performed to prepare the setup.
 ```
-    git clone https://github.com/stootaghaj/Demi.git 
+    git clone https://github.com/stootaghaj/NDNetGaming.git 
     pip install -r requirements.txt
 ```
 
